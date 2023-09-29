@@ -21,8 +21,8 @@ function App() {
       <div className="mainContainer">
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/about.html" element={<AboutPage />} />
-          <Route path="/login.html" element={<LoginPage />} />
+          <Route path="/about" element={<AboutPage />} />
+          <Route path="/login" element={<LoginPage />} />
         </Routes>
       </div>
       <Footer/>

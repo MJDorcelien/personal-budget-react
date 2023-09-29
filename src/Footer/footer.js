@@ -1,8 +1,8 @@
 
 function Footer() {
   return (
-    <div class="bottom">
-        <div class="center">
+    <div className="bottom">
+        <div className="center">
             All rights reserved &copy; Fabio Nolasco
         </div>
     </div>
